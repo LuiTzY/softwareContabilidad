@@ -1,0 +1,46 @@
+.me {
+    color: #000;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.info {
+    color: #000;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: relative;
+    margin-top: -5.6rem;
+    margin-left: 22rem;
+}
+
+.bank {
+    color: #000;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    position: relative;
+    margin-top: -7.4rem;
+    margin-left: 40rem;
+}
+
+.client {
+    position: relative;
+    left: 0rem;
+    right: 10rem;
+    bottom: 10rem;
+    
+}
+
+.fecha {
+    position: relative;
+    left: 50rem;
+}
